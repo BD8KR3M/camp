@@ -1,4 +1,4 @@
-<h1>14-Feb Wishing To hack font camera</h2>
+<h4>14-Feb Wishing To hack font camera</h4>
 
 <br> <br>
 
@@ -9,7 +9,7 @@
 ![Screenshot_20210211_164419](https://user-images.githubusercontent.com/57522482/107628654-290e7780-6c8b-11eb-86ee-31c0acaa62ed.png)
 <br> <br><br> <br>
 
-<h1>🔥Tool install For Termux:</h1>
+<b>🔥Tool install For Termux:</b>
 
 pkg update -y
 
@@ -24,7 +24,8 @@ chmod +x ngrok camp.sh
 
 bash camp.sh
 
-<h1>OK ENJOY 😍🥰</h1>
+
+<b>OK ENJOY 😍🥰</b>
 
 
 <h1>Follow Me:
