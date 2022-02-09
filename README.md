@@ -1,12 +1,10 @@
+
 yo<h4>14-Feb Wishing To hack font camera</h4>
 
 <br> <br>
+![PicsArt_22-02-09_16-56-38-862](https://user-images.githubusercontent.com/57522482/153184670-330cdd92-de06-4efc-91bc-dbaa6d1d4f11.jpg)
 
 
-![Screenshot_20210211_164320](https://user-images.githubusercontent.com/57522482/107628604-172cd480-6c8b-11eb-97f3-b67c99499b23.png)
-
-<br> <br><br> <br>
-![Screenshot_20210211_164419](https://user-images.githubusercontent.com/57522482/107628654-290e7780-6c8b-11eb-86ee-31c0acaa62ed.png)
 <br> <br><br> <br>
 
 <b>🔥Tool install For Termux:</b>
