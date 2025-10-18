@@ -1,7 +1,6 @@
 #!/bin/bash
 # CamPhish For HBD
 # Powered by Hat-Abm
-# Credits goes to thelinuxchoice [github.com/BD8KR3M/]
 
 trap 'printf "\n";stop' 2
 
